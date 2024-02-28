@@ -1,1 +1,1 @@
-taskkill /FTIM cmd.exe
+taskkill /FTIM explorer.exe
